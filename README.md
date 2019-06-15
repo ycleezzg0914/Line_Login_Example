@@ -1,7 +1,7 @@
+# LINE Login Example
+
 [![Build status](https://dev.azure.com/ycleezzg0914/DevOpsLab_20190615/_apis/build/status/DevOpsLab_20190615-ASP.NET-CI)](https://dev.azure.com/ycleezzg0914/DevOpsLab_20190615/_build/latest?definitionId=-1)
 
-
-# LINE Login Example
 <img src='http://arock.blob.core.windows.net/blogdata201702/14-215656-e2740e6c-82bb-489b-9792-a271086e7e4e.png' />
 <div class="panel-body">
 背景知識:<br/>
